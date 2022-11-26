@@ -1,5 +1,7 @@
 # View Demo: https://mahmoud-tech-e-commerce.netlify.app/
 
+## Using: Reactjs, Router, Redux, Bootstrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
